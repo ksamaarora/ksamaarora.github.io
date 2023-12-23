@@ -60,9 +60,10 @@ Blog: /blog
 # Add general links to site pages here
 links:
   Projects: /projects
-  Extracurriculars: /Extracurriculars
+  Extracurriculars: /extracurricular
   Contact: /contact
-  Resume: /assets/resume.pdf
+
+  # Resume: /assets/resume.pdf
   
 
 # Add links for more focus here
