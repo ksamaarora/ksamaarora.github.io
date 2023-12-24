@@ -1,21 +1,20 @@
 ---
 layout: post
-title:  Azure Fundamentals
-date:   2023-12-23 09:29:20 +0700
-tags: [poem]
+title:  "Azure Fundamentals"
+date:   2023-10-23 09:29:20 +0700
+tags:
+  - cloud
+  - azure
 categories: jekyll update
 usemathjax: true
 ---
 
-Below i have compiled all 12 modules and packed them with quick and easy-to-understand notes from my prep. Except updates as i go along.
-Check out all 12 modules below.
-2020-08-29-welcome-to-jekyll
 
-# Module 1 - Describe Cloud Computing
+### Module 1 - Describe Cloud Computing
 
 Cloud computing is the delivery of computing services, including common IT infrastructure such as virtual machines, storage, databases, and networking, over the internet.
 
-## Shared Responsibility Model
+#### Shared Responsibility Model
 
 - **Traditional corporate datacenter:**
   - The company is responsible for maintaining the physical space, ensuring security, and maintaining or replacing the servers if anything happens.
@@ -45,9 +44,9 @@ Cloud computing is the delivery of computing services, including common IT infra
  -->
 
 
-## Cloud Models
+### **CLOUD MODELS**
 
-### **Private Cloud:**
+- **Private Cloud:**
    - Used by a single entity.
    - The company has control over resources and security.
    - Greater cost and fewer benefits.
@@ -58,7 +57,7 @@ Cloud computing is the delivery of computing services, including common IT infra
    - Best fit to run legacy applications.
    - Customers have the highest degree of control.
 
-### **Public Cloud:**
+- **Public Cloud:**
    - Controlled and maintained by a third-party provider.
    - General public availability.
    - No capital expenditure (CapEx).
@@ -67,7 +66,7 @@ Cloud computing is the delivery of computing services, including common IT infra
    - No technical skills required.
    - Customers have the lowest degree of control.
 
-### **Hybrid Cloud:**
+- **Hybrid Cloud:**
    - Uses both public and private cloud.
    - Offers more flexibility.
    - Can be used to provide an extra layer of security.
@@ -77,29 +76,29 @@ Cloud computing is the delivery of computing services, including common IT infra
    - Managing difficulty.
    - Customers have a moderate degree of control.
 
-### **Multi-Cloud:**
+- **Multi-Cloud:**
    - Uses two or more (multiple) public cloud providers and manages resources and security in all.
 
-### **Azure Arc:**
+- **Azure Arc:**
    - A set of technologies that help manage your cloud environment, whether it's public, private, hybrid, or multi-cloud.
 
-### **Azure VMware Solution:**
+- **Azure VMware Solution:**
    - A service offered by Microsoft that allows you to take your existing VMware setup and move it into the Azure cloud.
    - Use your own VMware applications and store data in the cloud, whether public or hybrid.
 
-## Consumption-Based Model
+### Consumption-Based Model
 
 There are two types of expenses:
 
-### **Capital Expenditure (CapEx):**
+#### **Capital Expenditure (CapEx):**
    - One-time, up-front expenditure.
 
-### **Operational Expenditure (OpEx):**
+#### **Operational Expenditure (OpEx):**
    - Spending money on services or products.
    - Cloud Computing follows a consumption-based model (pay as you go).
    - There is no upfront cost, and there's no need to purchase and manage costly infrastructure that users might not use to the fullest.
    - You have the ability to pay for more resources when used and stop paying when not used.
 
-## Conclusion
+### Conclusion
 
 Cloud computing is a way to rent compute power and storage from someone else's data center. You are billed for only what you use, and the cloud provider manages the underlying infrastructure for you, enabling you to quickly solve the toughest challenges and bring cutting-edge solutions to your users.

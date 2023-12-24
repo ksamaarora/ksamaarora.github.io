@@ -3,11 +3,7 @@ layout: default
 title: projects
 ---
 
-## Project Repositories: 
-
-<br>
-
-> 1) Travel-Website-HTML-CSS-JavaScriipt-PHPMySql:
+#### 1) Travel-Website-HTML-CSS-JavaScriipt-PHPMySql:
 
 - The travel website offers a user-friendly menu with various options: "Home," which serves as the informative landing page presenting an overview of the travel organization; "About Us," providing a brief introduction to the travel services; "Popular Tours," where three popular tour options are recommended along with their descriptions; and "Explore," which takes users to the "Book Now" form page. 
 
@@ -15,7 +11,7 @@ title: projects
 
 - [View Project on Github](https://github.com/ksamaarora/Travel-Website-HTML-CSS-JavaScript-PHPMySQL/tree/main)
 
-> 2) Library Management Sysrem using BST
+#### 2) Library Management Sysrem using BST
 
 - This project is a Library Management System that utilizes the Binary Search Tree (BST) data structure to efficiently manage books and their quantities. The system is designed to be user-friendly, offering two main interfaces for both administrators and users.
 

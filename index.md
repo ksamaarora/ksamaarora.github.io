@@ -42,8 +42,9 @@ Do you have any questions? Feel free to reach out to me on [LinkedIn](https://ww
 
 <br>
 
+<!-- > My dance performance 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/zmSrnqQq9sk?si=Ej3ssjem-XPiMCyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+ -->
 <!-- ### Work Experience
 
 * Penetration Testing Intern @ Nexus Security
