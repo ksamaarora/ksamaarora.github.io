@@ -33,7 +33,8 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 - Semester 1 GPA: 3.55/4
 - Semester 2 GPA: 3.93/4
-- CGPA 3.74
+- Semester 3 GPA: 3.71/4
+- CGPA 3.73
 
 <br>
 
