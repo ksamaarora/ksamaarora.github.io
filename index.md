@@ -17,7 +17,9 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<br>
+#### Certifications
+
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900): Attained Microsoft AI Certification, securing a score of 914 out of 1000.
 
 ### Education
 
@@ -27,7 +29,6 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 * Secondary Education @Rajhans Vidyalaya, Mumbai [**2020**]
 
-<br>
 
 ### Test Scores
 
@@ -35,8 +36,6 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 - Semester 2 GPA: 3.93/4
 - Semester 3 GPA: 3.71/4
 - CGPA 3.73
-
-<br>
 
 ## Have any questions
 Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksama-arora-956b67266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com).
