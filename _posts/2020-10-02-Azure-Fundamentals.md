@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure Fundamentals"
+title:  "Azure Fundamentals AZ-900"
 date:   2023-10-23 09:29:20 +0700
 tags:
   - cloud
