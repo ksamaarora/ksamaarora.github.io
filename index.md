@@ -7,9 +7,9 @@ title: Personal Blog
 
 I'm Ksama Arora, a second-year undergraduate student majoring in Information Technology at NMIMS, Mumbai. 
 
-I have a keen interest in Artificial Intelligence and Coding. 
+I have a keen interest in Artificial Intelligence and Machine Learning.
 
-Currently, I am actively searching for an internship opportunity in Mumbai.
+Currently, I am expanding my skillset in AI/ML and alonside preparing for the Microsoft Cloud Computing certification - AZ 900.
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 
