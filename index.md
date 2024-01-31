@@ -35,10 +35,10 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 - Semester 1 GPA: 3.55/4
 - Semester 2 GPA: 3.93/4
 - Semester 3 GPA: 3.71/4
-- CGPA 3.73
+- CGPA current: 3.73
 
 ## Have any questions
-Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksama-arora-956b67266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com).
+Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksamaarora/) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com).
 
 <br>
 

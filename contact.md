@@ -16,7 +16,7 @@ You can contact me on various platforms like twitter and LinkedIn or mail me at
 <!-- * Twitter: <a href="#" class="fa fa-twitter" href = "https://twitter.com/cyz1gy" target="_blank" rel="noopener" ></a> &nbsp; 
 <br> -->
 
-* Linkedin:<a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksama-arora-956b67266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener" ></a> &nbsp; 
+* Linkedin:<a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 <br>
 
 * Github: <a href="#" class="fa fa-github" href = "https://github.com/ksamaarora" target="_blank" rel="noopener" ></a> &nbsp; 
