@@ -4,7 +4,7 @@ title: contact
 ---
 ### Contact me
 
-You can contact me on various platforms like twitter and LinkedIn or mail me at 
+You can contact me on various platforms like LinkedIn or mail me at 
 
 >  <a href = "mailto:ksama.arora@outlook.com" target="_blank" rel="noopener"> ksama.arora@outlook.com </a>
 
