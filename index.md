@@ -29,7 +29,6 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 * Secondary Education @Rajhans Vidyalaya, Mumbai [**2020**]
 
-
 ### Test Scores
 
 - Semester 1 GPA: 3.55/4

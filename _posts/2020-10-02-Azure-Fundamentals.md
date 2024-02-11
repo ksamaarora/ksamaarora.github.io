@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Azure Fundamentals AZ-900"
-date:   2024-01-05 09:29:20 +0700
+date:   2024-01-13 09:29:20 +0700
 tags:
   - cloud
   - azure
 categories: jekyll update
 usemathjax: true
 ---
-
 
 ### Module 1 - Describe Cloud Computing
 
