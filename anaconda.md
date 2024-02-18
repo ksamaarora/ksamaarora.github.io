@@ -6,19 +6,19 @@ title: Anaconda Jupyter
 
 Anaconda is an open-source distribution of the Python and R programming languages for data science, machine learning, and scientific computing. To start Anaconda, type **_python_** in iTerm. To exit python, write **exit()**.
 
-### Anaconda Pkg Management
+#### Anaconda Pkg Management
 
-- **__pip list_**: to list all pkgs
+- **_pip list_**: to list all pkgs
 - **_conda --help_**
 - **_conda list_**: list all installed pkgs
 
-### Conda Environments
+#### Conda Environments
 
 - **_conda create --name my_app flask sqlalchemy_**: create new env named "my_app" with specific packages.
   - **_source activate my_app_**: to activate the env
   - **_source deactivate_**: to deactivate the env
 
-### Managing Environments
+#### Managing Environments
 
 - **_conda env list_**: to view list of env created
 - To remove an env, use **_conda remove --name my_app --all_** (using **_--all_** removes all packages in that environment)
