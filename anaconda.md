@@ -30,3 +30,4 @@ In Jupyter Notebook, there are two primary modes: **Command Mode** and **Edit Mo
 **Magic Commands** enhance the functionality of Jupyter Notebooks. Commands prefixed with % are **line magics** and are applied to a single line, while those prefixed with %% are **cell magics** and are applied to the entire cell. 
 
 Line magics include useful commands like **_%lsmagic, %pwd, %ls -la, %matplotlib inline_**. Cell magics include commands like **_%%HTML, %%javascript, %%bash, and %%timeit_**.
+
