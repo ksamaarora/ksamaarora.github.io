@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anaconda Jupyter
+title: Python Basics
 ---
 > ## Strings
 
