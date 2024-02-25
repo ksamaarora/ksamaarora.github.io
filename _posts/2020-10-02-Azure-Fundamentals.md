@@ -33,7 +33,7 @@ Cloud computing is the delivery of computing services, including common IT infra
 
 <!-- ![Model pic](models.png) -->
 
-![test](https://cdn.discordapp.com/attachments/1173139022688829511/1179358049308266557/models.png?ex=65797dc6&is=656708c6&hm=a26c3b4c06482eaecddf5596a393baed67e08a298dde54e5d583d4b1d169b667&)
+![test](https://cdn.discordapp.com/attachments/1173139022688829511/1179358049308266557/models.png?ex=65e83bc6&is=65d5c6c6&hm=4d76d6ac6fb5e3ee35dadb00c462dd9aa7d1195805e8c8570f38939118e5e101&)
 
 <!-- 
 <figure>
