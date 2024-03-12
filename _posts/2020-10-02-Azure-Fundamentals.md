@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Azure Fundamentals AZ-900"
-date:   2024-02-10 09:29:20 +0700
+title:  "Azure AI Engineer AI-102"
+date:   2024-03-12 09:29:20 +0700
 tags:
   - cloud
   - azure
@@ -9,7 +9,9 @@ categories: jekyll update
 usemathjax: true
 ---
 
-### Module 1 - Describe Cloud Computing
+> ### Module 1 - Get Started with Azure AI Services
+
+<!-- ### Module 1 - Describe Cloud Computing
 
 Cloud computing is the delivery of computing services, including common IT infrastructure such as virtual machines, storage, databases, and networking, over the internet.
 
@@ -31,17 +33,9 @@ Cloud computing is the delivery of computing services, including common IT infra
 
 - The service model will determine the responsibility of OS, network controls, applications, identity, and infrastructure.
 
-<!-- ![Model pic](models.png) -->
+ ![Model pic](models.png) 
 
 ![test](https://cdn.discordapp.com/attachments/1173139022688829511/1179358049308266557/models.png?ex=65e83bc6&is=65d5c6c6&hm=4d76d6ac6fb5e3ee35dadb00c462dd9aa7d1195805e8c8570f38939118e5e101&)
-
-<!-- 
-<figure>
-<img src="{{ page.image }}" alt="models image">
-<figcaption>Fig 1. Models</figcaption>
-</figure>
- -->
-
 
 ### **CLOUD MODELS**
 
@@ -100,4 +94,4 @@ There are two types of expenses:
 
 ### Conclusion
 
-Cloud computing is a way to rent compute power and storage from someone else's data center. You are billed for only what you use, and the cloud provider manages the underlying infrastructure for you, enabling you to quickly solve the toughest challenges and bring cutting-edge solutions to your users.
+Cloud computing is a way to rent compute power and storage from someone else's data center. You are billed for only what you use, and the cloud provider manages the underlying infrastructure for you, enabling you to quickly solve the toughest challenges and bring cutting-edge solutions to your users. -->
