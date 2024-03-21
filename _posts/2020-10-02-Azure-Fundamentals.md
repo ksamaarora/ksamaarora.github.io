@@ -11,6 +11,8 @@ usemathjax: true
 
 > ### Module 1 - Get Started with Azure AI Services
 
+Azure AI Engineer Certification
+
 <!-- ### Module 1 - Describe Cloud Computing
 
 Cloud computing is the delivery of computing services, including common IT infrastructure such as virtual machines, storage, databases, and networking, over the internet.
