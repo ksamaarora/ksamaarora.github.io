@@ -11,7 +11,7 @@ usemathjax: true
 
 > ### Module 1 - Get Started with Azure AI Services
 
-.Azure AI Engineer Certification
+Azure AI Engineer Certification (AI-102)
 
 <!-- ### Module 1 - Describe Cloud Computing
 
