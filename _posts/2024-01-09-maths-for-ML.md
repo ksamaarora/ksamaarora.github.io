@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mathematics for Machine Learning
-date: 2024-02-23 1:28:47 +05:30
+date: 2024-03-20 1:28:47 +05:30
 tags:
   - Machine Learning
   - Fundamentals

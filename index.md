@@ -7,9 +7,10 @@ title: Personal Blog
 
 I'm Ksama Arora, a second-year undergraduate student majoring in Information Technology at NMIMS, Mumbai. 
 
-I have a keen interest in Artificial Intelligence and Machine Learning.
+I have a keen interest in Artificial Intelligence and Machine Learning. 
 
-Currently, I am preparing for the Azure AI Engineer Certification (AI-102) and also expanding my skillset in Python and Maths required for Machine Learning. 
+Currently preparing for the AWS certified Machine Learning - Speciality and AWS Solutions Architect - Associate exams. Planning to give exam in my summer break.  
+
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 

@@ -8,6 +8,8 @@ You can contact me on various platforms like LinkedIn or mail me at
 
 >  <a href = "mailto:ksama.arora@outlook.com" target="_blank" rel="noopener"> ksama.arora@outlook.com </a>
 
+> <a href = "mailto:aroraksama@gmail.com" target="_blank" rel="noopener"> aroraksama@gmail.com </a>
+
 <!-- or
  <a href = "mailto:arorarachit@protonmail.com" target="_blank" rel="noopener"> arorarachit@protonmail.com </a> -->
 
