@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure AI Engineer AI-102"
+title:  "Azure AI Engineer (AI-102)"
 date:   2024-03-27 09:29:20 +0700
 tags:
   - cloud
