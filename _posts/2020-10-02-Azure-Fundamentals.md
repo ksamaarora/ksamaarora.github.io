@@ -9,7 +9,7 @@ categories: jekyll update
 usemathjax: true
 ---
 
-> ### Module 1 - Get Started with Azure AI Services
+> ### Module 1 - Get Started with Azure AI Services.
 
 **Data Science:** focuses on processing and analysis of data, applying statistical technique to uncover and visualize relationships and patterns in data
 
