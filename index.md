@@ -7,7 +7,7 @@ title: Personal Blog
 
 I'm Ksama Arora, a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
 
-My interest lies in Artificial Intelligence and Machine Learning. 
+My interest lies in Artificial Intelligence and Machine Learning
 
 I have passed the Microsoft AI-900 exam and currently preparing for the AWS Solutions Architect. I am also currently exploring more in python and fundamental mathematics for AI/ML projects.
 
