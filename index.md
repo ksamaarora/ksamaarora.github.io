@@ -5,12 +5,11 @@ title: Personal Blog
 
 ### whoami
 
-I'm Ksama Arora, a second-year undergraduate student majoring in Information Technology at NMIMS, Mumbai. 
+I'm Ksama Arora, a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
 
-I have a keen interest in Artificial Intelligence and Machine Learning. 
+My interest lies in Artificial Intelligence and Machine Learning. 
 
-Currently preparing for the AWS certified Machine Learning - Speciality and AWS Solutions Architect - Associate exams. Planning to give exam in my summer break.  
-
+I have passed the Microsoft AI-900 exam and currently preparing for the AWS Solutions Architect. I am also currently exploring more in python and fundamental mathematics for AI/ML projects.
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 
@@ -24,7 +23,7 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 ### Education
 
-* Bachelor's Degree in Information Technology @ Mukesh Patel School of Technology and Management, NMIMS - Mumbai [**Graduation 2026**]
+* Bachelor's Degree in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**Graduation 2026**]
 
 * Higher Secondary Education @M.K.V.V International Vidyalaya, Mumbai [**2022**]
 
