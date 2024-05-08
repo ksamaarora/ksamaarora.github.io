@@ -12,7 +12,7 @@ usemathjax: true
 
 <!-- [![Screenshot-2024-03-28-at-2-47-26-AM.png](https://i.postimg.cc/Y9HkprnX/Screenshot-2024-03-28-at-2-47-26-AM.png)](https://postimg.cc/bG34ghjb) -->
 
-Cloud is a collection of services hosted on servers in different regions. Compute service refers to services needed for processing or running application with use of compute power 
+Cloud is a collection of services hosted on servers in different regions. Compute service refers to services needed for processing or running application with use of compute power.
 
 **Regions and Availability Zones:**
 
