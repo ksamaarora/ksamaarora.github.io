@@ -3,7 +3,7 @@ layout: default
 title: C++ Basics
 ---
 
-A) BASIC I/O.
+A) BASIC I/O
 
 ```c++
 #include<iostream>
