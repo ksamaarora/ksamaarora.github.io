@@ -24,7 +24,7 @@ I am following [Strivers A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-ds
 
 C++ Basics in One Shot - Strivers A2Z DSA Course - L1
 
-A) BASIC I/O
+A) BASIC I/O.
 
 ```
 #include<iostream>
