@@ -8,9 +8,9 @@ categories: jekyll update
 usemathjax: true
 ---
 
-> ### Overview of AWS
+> ### OVERVIEW OF AWS
 
-Cloud is a collection of services hosted on servers in different regions. Compute service refers to services needed for processing or running application with use of compute power.
+Cloud is a collection of services hosted on servers in different regions.
 
 **Regions and Availability Zones:**
 
@@ -21,7 +21,7 @@ Currently AWS  has regions in **North & South America**, **Europe**, **Middle Ea
 
 [![Screenshot-2024-05-10-at-12-04-58-PM.png](https://i.postimg.cc/kGcVY9Fb/Screenshot-2024-05-10-at-12-04-58-PM.png)](https://postimg.cc/MfnKXCL6)
 
-> ### Overview Security and Identity:
+> ### SECURITY AND IDENTITY
 
 > #### Services for Data protection:
   - **Amazon Macie:** to discover and protect sensitive data
@@ -74,3 +74,30 @@ Currently AWS  has regions in **North & South America**, **Europe**, **Middle Ea
   - **AWS Directory service is a managed service offering which provides the directories for you without having to run the servers yourself.**
   - AWS offers **Managed Microsoft Active Directory** and **Managed Simple Active Directory**. 
   - If **any service fails**, the service **automatically replaces the failed server** with a working one.
+
+> ### COMPUTE
+
+Compute refers to using a computer to process something.
+
+> #### Instances:
+  - **Amazon Elastic Compute Cloud (EC2):** Service that provides secure and resizable virtual machines in the cloud - allows to rent virtual computers called EC2 Instances - different EC2 types can be CPU, memory, storage and speed - on demand pricing options 
+  - **EC2 Spot:** Service which helps you run fault tolerance workloads for up to 90% of the normal price
+  - **Amazon EC2 Auto Scaling:** Service which can automatically add or remove computing capacity based on demand
+  - **Amazon Lightsail:** Service which provides a really easy to use cloud platform to build an application or website    
+
+> #### Containers:
+Containers are like portable, self-contained packages for software that contains all necessary code, libraries and settings so that program can run smoothly.
+  - **Amazon Elastic Container Service (Amazon ECS):** Service to run secure, reliable and scalable containers
+  - **Amazon Elastic Container Registry (Amazon ECR):** Service to store manage and deploy container images
+  - **Amazon Elastic Kubernetes Service (Amazon EKS):** A fully managed Kubernetes service
+
+> #### Serverless:
+- **AWS Lambda:** A compute service which allows you to run code without servers 
+  
+> #### Edge:
+  - **AWS Outposts:** Service which lets you run your AWS services on your own servers instead of Amazons
+  - **AWS Snow Family:** Service that lets you bring lot of data into AWS is called 
+  - **AWS Wavelength:** Service that lets you access AWS services from 5g devices without having to go via the internet
+  - **VMware Cloud:** Service which helps in migrating the VMWare workloads to AWS
+  - **AWS Local Zones:** Service which lets you run latency sensitive applications closer to end users
+  
