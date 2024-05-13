@@ -24,7 +24,7 @@ title: Lab 1 Create ML Workspace in Azure
 
 > #### Step 3:
 - Now in the ML Studio, create some compute VM
-- For a notebook we will create a compute instance 
+- To power a notebook we will create a compute instance.
 [![Screenshot-2024-05-13-at-2-55-57-PM.png](https://i.postimg.cc/T1w7DwcV/Screenshot-2024-05-13-at-2-55-57-PM.png)](https://postimg.cc/Kk6DXmwj)
 
 
