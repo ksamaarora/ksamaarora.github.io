@@ -5,7 +5,7 @@ title: Lab 1 Create ML Workspace in Azure
 
 ### Create Machine Learning Workspace in Azure - Lab 1
 
-- Everything in Azure goes into a resource group. 
+- Everything in Azure goes into a resource group
 - Create **Azure ML Workspace:** Save configuration/template of workspace if needed for future use.
 - **Application Insights**, **Key Vaults**, and **Storage account** created: Ensure these are set up for your workspace.
 - Go to Azure ML **Studio**
