@@ -18,13 +18,13 @@ title: Lab 3 Create a basic pipeline in Azure ML Studio
 
 > **Create a New Classic Pipeline**:
 
-   - **Go to Azure ML Designer**: Open the Azure ML Designer.
+   - **Go to Azure ML Designer**: Open the Azure ML Designer **(no-code tool)**.
    - **Create a New Pipeline**: Start a new classic pipeline project.
      - **Name Your Pipeline**: Provide a name and description for your pipeline.
 
 > **Data Ingestion**:
 
-   - **Import Datasets**: Import the required datasets into your pipeline.
+   - **Import Datasets**: Import the required datasets into your pipeline using **Drag and Drop**.
      - **From Sample Datasets**: Select datasets from the component section.
      - **Add to Pipeline**: Drag and drop the datasets onto the pipeline canvas.
      - **Preview Data**: Right-click on the datasets and select 'Preview Data' to examine the contents.
