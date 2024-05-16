@@ -5,6 +5,12 @@ title: Training Model by using Python SDK
 
 ### Training Model by using Python SDK
 
+[![Screenshot-2024-05-17-at-2-04-40-AM.png](https://i.postimg.cc/y8Bc2Sdr/Screenshot-2024-05-17-at-2-04-40-AM.png)](https://postimg.cc/0bWzwj7p)
+
+[![Screenshot-2024-05-17-at-2-05-13-AM.png](https://i.postimg.cc/RZX68s2N/Screenshot-2024-05-17-at-2-05-13-AM.png)](https://postimg.cc/CRnxnNhg)
+
+[![Screenshot-2024-05-17-at-2-05-34-AM.png](https://i.postimg.cc/MTyWkXXd/Screenshot-2024-05-17-at-2-05-34-AM.png)](https://postimg.cc/JDzwZrNk)
+
 > Step 1 - **Connect to Workspace**:
 
 ```python
