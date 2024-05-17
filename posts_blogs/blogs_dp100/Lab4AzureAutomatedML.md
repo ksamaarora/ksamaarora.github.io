@@ -13,10 +13,10 @@ title: Lab 4 Using Azure Automated Machine Learning
 
 - **Select Task Type**:  **Five categories of algorithm available in Azure Automated ML**
   - **Regression** predict numerical values. 
-  - **Classification** segregates data into classes.
-  - **Time-series** predict numerical values, but they are based on a sequence of data points in successive order.
-  - **Natural Language Processing**
-  - **Computer Vision**
+  - **Classification** predict numerical values.
+  - **Time-series** predict future numerical values based on time-series data.
+  - **Natural Language Processing** extract insights from text
+  - **Computer Vision** classify images or detect objects in images 
 
 [![Screenshot-2024-05-16-at-4-08-02-AM.png](https://i.postimg.cc/SN5V28qC/Screenshot-2024-05-16-at-4-08-02-AM.png)](https://postimg.cc/fJcY1VVR)
 
