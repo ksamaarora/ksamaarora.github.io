@@ -67,6 +67,8 @@ title: Lab 4 Using Azure Automated Machine Learning
 
 [![Screenshot-2024-05-16-at-4-20-19-AM.png](https://i.postimg.cc/cLqBhSzb/Screenshot-2024-05-16-at-4-20-19-AM.png)](https://postimg.cc/KRNTcdxP)
 
+[![Screenshot-2024-05-22-at-3-10-12-PM.png](https://i.postimg.cc/J4D893nY/Screenshot-2024-05-22-at-3-10-12-PM.png)](https://postimg.cc/tYj86xFF)
+
    - Click "Deploy".
    - **Name**: Enter a name for the deployment.
    - **Compute Type**:  AksCompute/**Azure Container Instance**
