@@ -50,6 +50,15 @@ title: Lab 4 Using Azure Automated Machine Learning
 
 - **Submit the Job**: Click "Submit". The job will run for approximately 30 minutes.
 
+- **Note:*** **Job Status** can be following:
+  - **Queued:** The job is waiting for compute to become available.
+  - **Preparing:** The compute cluster is resizing or the environment is being installed on the compute target.
+  - **Running:** The training script is being executed.
+  - **Finalizing:** The training script ran and the job is being updated with all final information.
+  - **Completed**: The job successfully completed and is terminated.  
+  - **Failed:** The job failed and is terminated.
+
+
 > **Step 2: Evaluate the Model**
 
 - **View Models + Child Jobs**: Once the job is complete, navigate to the "Models + Child jobs" section.
