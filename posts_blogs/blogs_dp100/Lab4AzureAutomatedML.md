@@ -14,7 +14,7 @@ title: Lab 4 Using Azure Automated Machine Learning
 - **Select Task Type**:  **Five categories of algorithm available in Azure Automated ML**
   - **Regression** predict numerical values. 
   - **Classification** predict numerical values.
-  - **Time-series** predict future numerical values based on time-series data.
+  - **Time-series** predict future numerical values based on time-series data e.g. predicting future sales.
   - **Natural Language Processing** extract insights from text
   - **Computer Vision** classify images or detect objects in images 
 
@@ -66,6 +66,12 @@ title: Lab 4 Using Azure Automated Machine Learning
 - **Deploy**: Real-time endpoint/Batch endpoint/**Web service**
 
 [![Screenshot-2024-05-16-at-4-20-19-AM.png](https://i.postimg.cc/cLqBhSzb/Screenshot-2024-05-16-at-4-20-19-AM.png)](https://postimg.cc/KRNTcdxP)
+
+- **Real-Time Predictions**
+Real-time predictions provide **instant recommendations** based on customer actions, requiring **continuous compute resources**. Azure Container Instances **(ACI)** or Azure Kubernetes Service **(AKS)** are ideal for this, offering lightweight and cost-effective infrastructure solutions that ensure your model is **always available**.
+
+- **Batch Predictions**
+Batch predictions are **scheduled and less frequent**, such as weekly sales forecasts. This approach utilizes **compute clusters** to process data in parallel, making it efficient for **handling large datasets** periodically.
 
 [![Screenshot-2024-05-22-at-3-10-12-PM.png](https://i.postimg.cc/J4D893nY/Screenshot-2024-05-22-at-3-10-12-PM.png)](https://postimg.cc/tYj86xFF)
 
