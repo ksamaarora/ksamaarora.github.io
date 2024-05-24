@@ -59,10 +59,11 @@ title: Lab 4 Using Azure Automated Machine Learning
   - **Failed:** The job failed and is terminated.
 
 
-> **Step 2: Evaluate the Model**
+> **Step 2: Evaluate & Compare Model***
 
 - **View Models + Child Jobs**: Once the job is complete, navigate to the "Models + Child jobs" section.
 - **Best Algorithm**: You should see that the best algorithm selected by Azure is "Voting Ensemble".
+- **Data guardrails:** This tab shows whether training data has any issue
 
 [![Screenshot-2024-05-16-at-4-15-57-AM.png](https://i.postimg.cc/QtS7rL0h/Screenshot-2024-05-16-at-4-15-57-AM.png)](https://postimg.cc/dkk38xbx)
 
