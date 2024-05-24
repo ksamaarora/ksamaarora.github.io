@@ -40,3 +40,7 @@ Finally, the model undergoes acceptance testing to determine its suitability for
   - Capture governance data for accountability purposes.
   - Set up alerts and notifications.
   - Monitor applications for compliance and performance.
+
+> ### Azure Machine Learning Model 
+
+[![Screenshot-2024-05-12-at-3-53-44-PM.png](https://i.postimg.cc/mkC3Mbcq/Screenshot-2024-05-12-at-3-53-44-PM.png)](https://postimg.cc/p5VnMMJY)
