@@ -109,3 +109,6 @@ Batch predictions are **scheduled and less frequent**, such as weekly sales fore
 > **Step 5: Evaluate Model**
 
 [![Screenshot-2024-05-16-at-6-02-44-PM.png](https://i.postimg.cc/kgvQzpWQ/Screenshot-2024-05-16-at-6-02-44-PM.png)](https://postimg.cc/zy3HRptv)
+
+- To **explore a model**, can **generate explanations** for each model that has been trained. Can **specify explanations** for best performing mode. If however, you're **interested in the interpretability of another model**, can select the **model in overview** and **select Explain model**.
+
