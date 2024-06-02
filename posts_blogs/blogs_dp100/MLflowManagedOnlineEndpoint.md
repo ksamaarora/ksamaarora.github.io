@@ -46,6 +46,13 @@ endpoint.traffic = {"blue": 100}
 ml_client.begin_create_or_update(endpoint).result()
 ```
 
+**NOTE:** **25%** traffic goes to **blue model** and **75%** goes to **green model**. Code snippet implementing desired blue/green configuration:
+
+```python
+endpoint.traffic = {"blue": 25, "green": 75} 
+ml_client.begin_create_or_update(endpoint).result()
+```
+
 > **To delete endpoint and all associated deployments**
  
 ```python
