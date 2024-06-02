@@ -5,7 +5,7 @@ title: Run Training Script as Command Job in Azure Ml
 
 ## Run Training Script as Command Job in Azure Ml
 
-### Step 1: Convert a Notebook to a Script
+> ### Step 1: Convert a Notebook to a Script
 
 Scripts are ideal for testing and automation in production. To create a production-ready script:
 - **Remove nonessential code**: Exclude unnecessary code like _**print()**_ and _**df.describe()**_ (i.e. code for exploratory purposes) to reduce costs and compute time.
@@ -104,7 +104,7 @@ def train_model():
 python train.py
 ```
 
-### Step 2: Run a Script as a Command Job
+> ### Step 2: Run a Script as a Command Job
 
 ```python
 from azure.ai.ml import command
@@ -125,7 +125,7 @@ aml_url = returned_job.studio_url
 print("Monitor your job at", aml_url)
 ```
 
-### Step 3: Use Parameters in Command Job
+> ### Step 3: Use Parameters in Command Job
 
 Increase script flexibility using parameters.
 
