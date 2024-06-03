@@ -9,6 +9,8 @@ title: Build a Pipeline
 
 > ### Step 1: Prepare data and Train model
 
+[![Screenshot-2024-06-04-at-1-42-05-AM.png](https://i.postimg.cc/PqjHzGv0/Screenshot-2024-06-04-at-1-42-05-AM.png)](https://postimg.cc/zy048cjk)
+
 ```python
 from azure.ai.ml.dsl import pipeline
 
@@ -125,6 +127,8 @@ pipeline_job = ml_client.jobs.create_or_update(
 ```
 
 After submitting, **new job** will be **created**. Pipeline job also contains **child jobs**, which **represent execution** of the **individual components**. Azure **ML Studio** creates **graphical representation of pipeline**. 
+
+[![Screenshot-2024-06-04-at-1-42-38-AM.png](https://i.postimg.cc/3xnMpy70/Screenshot-2024-06-04-at-1-42-38-AM.png)](https://postimg.cc/rD0Y2wDq)
 
 > ### Step 3: Schedule a Pipeline Job
 

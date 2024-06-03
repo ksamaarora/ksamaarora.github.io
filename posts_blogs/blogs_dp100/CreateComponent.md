@@ -5,6 +5,8 @@ title: Sample code to create a Compenent
 
 ### Sample code to create a Compenent
 
+[![Screenshot-2024-06-04-at-1-49-54-AM.png](https://i.postimg.cc/nc8gsyjm/Screenshot-2024-06-04-at-1-49-54-AM.png)](https://postimg.cc/9zpJKNBX)
+
 > ### Step 1: Script named _**prep.py**_ to prepare data
 
 ```python
@@ -79,6 +81,8 @@ loaded_component_prep = load_component(source=parent_dir + "./prep.yml")
 ```
 
 > ### Step 4: Register Component
+
+[![Screenshot-2024-06-04-at-1-51-55-AM.png](https://i.postimg.cc/V6800L8T/Screenshot-2024-06-04-at-1-51-55-AM.png)](https://postimg.cc/Mc9phwXb)
 
 **When loaded component**, **register** the component.
 

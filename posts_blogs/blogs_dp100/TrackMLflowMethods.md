@@ -3,6 +3,8 @@ layout: default
 title: Track ML Jobs with Mlflow
 ---
 
+[![Screenshot-2024-06-04-at-1-35-36-AM.png](https://i.postimg.cc/MHGK70BN/Screenshot-2024-06-04-at-1-35-36-AM.png)](https://postimg.cc/r0vkcrQN)
+
 > #### Enable autologging
 
 - **Automatically logs parameters**, **metrics**, and **model artifacts** **without** anyone **needing** to **specify** what needs to be **logged**.
@@ -15,7 +17,7 @@ title: Track ML Jobs with Mlflow
     • **Fastai**
     • **Pytorch**
 
-- **To enable autologging**, add following code for training script
+- **To enable autologging** (feature that **logs all parameters, metrics and artfacts**, **without** needing to specifically **set up** those logs)
 
 ```python
 import mlflow
@@ -41,3 +43,5 @@ mlflow.log_param("Regularization rate", reg_rate)
 ```
 
 - Finally **submit** the job
+
+[![Screenshot-2024-06-04-at-1-36-23-AM.png](https://i.postimg.cc/Dwhf5K11/Screenshot-2024-06-04-at-1-36-23-AM.png)](https://postimg.cc/QH6rxw4M)

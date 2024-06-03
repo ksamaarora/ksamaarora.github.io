@@ -104,7 +104,13 @@ def train_model():
 python train.py
 ```
 
+[![Screenshot-2024-06-04-at-1-28-40-AM.png](https://i.postimg.cc/GpQH1f3Z/Screenshot-2024-06-04-at-1-28-40-AM.png)](https://postimg.cc/QBFXQ0Tb)
+
+[![Screenshot-2024-06-04-at-1-29-09-AM.png](https://i.postimg.cc/NFrsLCYG/Screenshot-2024-06-04-at-1-29-09-AM.png)](https://postimg.cc/dZwPxBLg)
+
 > ### Step 2: Run a Script as a Command Job
+
+[![Screenshot-2024-06-04-at-1-29-36-AM.png](https://i.postimg.cc/13MfkT3b/Screenshot-2024-06-04-at-1-29-36-AM.png)](https://postimg.cc/WdFNr5r7)
 
 ```python
 from azure.ai.ml import command

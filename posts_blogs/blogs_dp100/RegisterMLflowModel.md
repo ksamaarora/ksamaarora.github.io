@@ -5,6 +5,8 @@ title: Register an Mlflow model
 
 > #### Register an Mlflow model
 
+[![Screenshot-2024-06-04-at-1-54-41-AM.png](https://i.postimg.cc/GmmWrkTg/Screenshot-2024-06-04-at-1-54-41-AM.png)](https://postimg.cc/vcCqtxz5)
+
 To **easily manage model**, **store** model in Azure ML model **registry**. It makes it **easy to organize** and **keep track** of trained models. When you register a model, you **store and version** the model in workspace. The **registered models** are **identified by name** and **version**. You **can also** register models trained **outside Azure ML** providing the local path to the models artifacts. 
 
 **3 types of models you can register:**
