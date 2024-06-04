@@ -7,6 +7,8 @@ title: Build a Pipeline
 
 **Define pipeline** by **creating** a **YAML file** or use **function @pipeline()** function to **create YAML file**
 
+**Note:** **PythonScriptStep** is the **pipeline step** used to perform **tasks in a sequence**, such as one step that prepares input data and a following step that trains a model
+
 > ### Step 1: Prepare data and Train model
 
 [![Screenshot-2024-06-04-at-1-42-05-AM.png](https://i.postimg.cc/PqjHzGv0/Screenshot-2024-06-04-at-1-42-05-AM.png)](https://postimg.cc/zy048cjk)

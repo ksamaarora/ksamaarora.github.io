@@ -27,20 +27,6 @@ Deployment involves putting the model into production, this ensures accessibilit
 - **Acceptance:**
 Finally, the model undergoes acceptance testing to determine its suitability for consumer marketing efforts.
 
-> ### **Responsible AI Guidelines** 
-
-- **Fairness:** Ensure all systems treat individuals fairly, avoiding bias based on factors like ethnicity or gender.
-- **Reliability and Safety**
-- **Privacy and Security**
-- **Inclusiveness:**** Ensuring everyone is considered regardless of any factors.
-- **Transparency:**** Provide clear explanations of AI system.
-- **Accountability:**
-  - Follow industry standards for defining project outcomes ownership.
-  - Implement accountability concepts like registering, packaging, utilizing metadata, and deploying models.
-  - Capture governance data for accountability purposes.
-  - Set up alerts and notifications.
-  - Monitor applications for compliance and performance.
-
 > ### Azure Machine Learning Model 
 
 [![Screenshot-2024-05-12-at-3-53-44-PM.png](https://i.postimg.cc/mkC3Mbcq/Screenshot-2024-05-12-at-3-53-44-PM.png)](https://postimg.cc/p5VnMMJY)
