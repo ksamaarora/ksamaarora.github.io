@@ -118,15 +118,17 @@ az ml compute create --name "ci1572" --size STANDARD_DS11_V2 --type ComputeInsta
 az ml compute create --name "aml-cluster" --size STANDARD_DS11_V2 --max-instances 2 --type AmlCompute -w mlw-dp100-labs -g rg-dp100-labs
 ```
 
-> ### **Create compute target**
+> ### **Create compute target** (NOTE IMP)
 
+- **METHOD 1: Creating compute directly without using YAML file**
 ```bash
 az ml compute create --name aml-cluster --size STANDARD_DS3_v2 --min-instances 0 --max-instances 5 --type AmlCompute --resource-group my-resource-group --workspace-name my-workspace
 ```
 
-- Can use **YAML files** to **define configuration** - becomes easier to organize and automate tasks
+- **METHOD 2: Creating compute using YAML file**
+  - Can use **YAML files** to **define configuration** - becomes easier to organize and automate tasks
   - **NOTE:** Designed for **automating tasks**. By using YAML files to define how the **model must be trained**, the **ML tasks** will be **repeatable**, **consistent** and **reliable**.
-
+  - **yml file configuration**  
 ```yml
   $schema: https://azuremlschemas.azureedge.net/latest/amlCompute.schema.json 
   name: aml-cluster
@@ -135,9 +137,7 @@ az ml compute create --name aml-cluster --size STANDARD_DS3_v2 --min-instances 0
   min_instances: 0
   max_instances: 5
 ```
-
-- When u saved the YAML file as compute.yml, you can create compute target by following command
-
+  - When u **saved** the **YAML file** as compute.yml, you can **create compute target** by following command
 ```bash
   az ml compute create --file compute.yml --resource-group my-resource-group --workspace-name my-workspace
 ```

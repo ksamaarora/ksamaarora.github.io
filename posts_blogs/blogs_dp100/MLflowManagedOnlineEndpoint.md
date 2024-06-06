@@ -37,7 +37,7 @@ blue_deployment = ManagedOnlineDeployment(
 ml_client.online_deployments.begin_create_or_update(blue_deployment).result()
 ```
 
-> **Deploy to a specific model among mutiple models:** 
+> **Deploy to a specific model among mutiple models: (IMP)** 
 
 Since **only one model deployed**, **100%** of traffic is to this model. However **if multiple models are deployed** to same endpoint, and to direct traffic to a specific deployment use this code
 ```python
@@ -46,7 +46,7 @@ endpoint.traffic = {"blue": 100}
 ml_client.begin_create_or_update(endpoint).result()
 ```
 
-**NOTE:** **25%** traffic goes to **blue model** and **75%** goes to **green model**. Code snippet implementing desired blue/green configuration:
+**IMP NOTE:** **25%** traffic goes to **blue model** and **75%** goes to **green model**. Code snippet implementing desired blue/green configuration:
 
 ```python
 endpoint.traffic = {"blue": 25, "green": 75} 

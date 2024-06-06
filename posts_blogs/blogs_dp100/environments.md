@@ -3,6 +3,8 @@ layout: default
 title: Azure Machine Learning Environments
 ---
 
+> #### IMP Note: Environment OS and Azure Container Registry are two properties of Azure ML environments definitions. 
+
 **List environments** in studio, using Azure CLI or Python SDK
 Using Python SDK
 ```python
