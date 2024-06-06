@@ -29,8 +29,9 @@ mlflow.autolog()
   
 - Can decide whatever custom metric u want to log with MLflow
 
-- _**mlflow.log_param(my_custom_param)**_: **Log single key-value parameter**. Use this function for an **input parameter** you want **to** **log**.
-- _**mlflow.log_metric(my_custom_metric)**_: Log **single key-value metric**. Value must be a **number**. Use this function for **any output** you want to **store** with the run.
+> ### IMP NOTE:
+- _**mlflow.log_param(my_custom_param)**_: **Log single key-value parameter**. Used to **log parameters** such as **hyper parameters**. Use this function for an **input parameter** you want **to** **log**.
+- _**mlflow.log_metric(my_custom_metric)**_: Log **single key-value metric**. Value must be a **number**. **Used to log metrics like accuracy**. Use this function for **any output** you want to **store** with the run.
 - _**mlflow.log_artifact(my_custom_artifact)**_: **Log a file**. Use this function for **any plot** you want to log, **save as image file first**.
 
 - **Sample code to add Mlflow** to an existing training script:

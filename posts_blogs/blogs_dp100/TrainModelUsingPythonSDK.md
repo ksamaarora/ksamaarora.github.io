@@ -7,6 +7,24 @@ title: Training Model by using Python SDK
 
 [![Screenshot-2024-05-17-at-2-04-40-AM.png](https://i.postimg.cc/y8Bc2Sdr/Screenshot-2024-05-17-at-2-04-40-AM.png)](https://postimg.cc/0bWzwj7p)
 
+> **IMP:** 
+  - The _**to_pandas_dataframe**_ method is used to **load** all records from a **tabular dataset into** a **pandas dataframe**
+  ```python
+  tabular_data=data.to_pandas_dataframe()
+  ```
+  - The _**to_spark_dataframe**_ method used to **load** all records from **tabular dataset to spark dataframe**
+  ```python
+  tabular_data=data.to_pandas_dataframe()
+  ```
+  - _**get()**_ method **returns** a **reference Dataset** from azure ml workspace
+  ```python
+  tabular_data=data.get()
+  ```
+  - _**data.sample**_ **generates** a **sample** from tabular dataset
+  ```python
+  tabular_data=data.sample()
+  ```
+
 [![Screenshot-2024-05-17-at-2-05-13-AM.png](https://i.postimg.cc/RZX68s2N/Screenshot-2024-05-17-at-2-05-13-AM.png)](https://postimg.cc/CRnxnNhg)
 
 [![Screenshot-2024-05-17-at-2-05-34-AM.png](https://i.postimg.cc/MTyWkXXd/Screenshot-2024-05-17-at-2-05-34-AM.png)](https://postimg.cc/JDzwZrNk)

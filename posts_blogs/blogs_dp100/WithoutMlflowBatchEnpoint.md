@@ -15,6 +15,8 @@ Scoring script must **include two functions**:
   - **init():** Called once at beginning of process, so use for any costly or common preparation like loading the model
   - **run():** Called for each mini batch to perform the scoring. The run() method should return a pandas DataFrame or array/list
 
+[![Screenshot-2024-06-06-at-5-33-20-PM.png](https://i.postimg.cc/8z01K9ZB/Screenshot-2024-06-06-at-5-33-20-PM.png)](https://postimg.cc/w1D83f87)
+
 ```python
 import os
 import mlflow

@@ -12,6 +12,8 @@ Open Studio and select your experiment
 - The **model assets** that can be **used to register and deploy** the model are **stored** in the **models folder under _Outputs + logs_**.
   
 > #### Retrieve metrics with Mlflow in notebook
+
+[![Screenshot-2024-06-06-at-5-29-18-PM.png](https://i.postimg.cc/g27QRW0R/Screenshot-2024-06-06-at-5-29-18-PM.png)](https://postimg.cc/JsbpVSZ4)
   
 - **Search all active experiments** in workspace using Mlflow
 

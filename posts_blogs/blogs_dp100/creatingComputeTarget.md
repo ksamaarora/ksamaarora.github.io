@@ -18,6 +18,14 @@ title: Creating Compute Target
 
 A compute instance can be **assigned to one user**, as it **can't handle parallel workloads**. Can **schedule** to start/stop compute instance or **configure** to **automatically shut down** when been **idle** for **set amount** of time
 
+> #### IMP:
+- **Configure compute instance** using **YAML file** given **scale down to one instance after one hour** of activity
+```python
+# Set YAML file parameters
+min_instances: 1 
+idle_time_before_scale_down: 3600 # 1 hour = (60 min x 60 sec) = 3600 seconds
+```
+
 ```python
 from azure.ai.ml.entities import ComputeInstance
 

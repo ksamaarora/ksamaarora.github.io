@@ -149,6 +149,25 @@ recurrence_trigger = RecurrenceTrigger(
     interval=1, # Number of frequency units to describe how often the schedule fires. Value needs to be an integer.
 )
 ```
+
+> ### IMP NOTE: Create a time-based schedule with cron expression
+```python
+schedule_name = "simple_sdk_create_schedule_cron"
+schedule_start_time = datetime.utcnow()
+cron_trigger = CronTrigger(
+    expression="15 10 * * *", # Syntax: Minutes  Hours  Days  Months  Days-Of-Week
+    start_time=schedule_start_time,  # start time
+    time_zone="Eastern Standard Time",  # time zone of expression
+)
+job_schedule = JobSchedule(
+    name=schedule_name, trigger=cron_trigger, create_job=pipeline_job
+)
+```
+- The expression _**15 16 * * 1**_ means **16:15PM** on **every Monday**
+- [![Screenshot-2024-06-06-at-11-20-31-PM.png](https://i.postimg.cc/2y55Xkbr/Screenshot-2024-06-06-at-11-20-31-PM.png)](https://postimg.cc/nj6ZXtGP)
+- For **example**, to **schedule** a pipeline, the cron schedule 0 2 * * * will operate at **2AM every night**. The cron schedule 2 0 * * * runs **every day** at **2 minutes past midnight**. 
+
+
 - _**Schedule pipeline using JobSchedule class**_
 
 ```python

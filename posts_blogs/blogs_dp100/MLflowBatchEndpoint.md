@@ -37,16 +37,26 @@ deployment = BatchDeployment( # use BatchDeployment class
     endpoint_name=endpoint.name,
     model=model,
     compute="aml-cluster",
-    instance_count=2, # instance_count: Count of compute nodes to use for generating predictions.
-    max_concurrency_per_instance=2, # max_concurrency_per_instance: Maximum number of parallel scoring script runs per compute node.
-    mini_batch_size=2, # mini_batch_size: Number of files passed per scoring script run.
-    output_action=BatchDeploymentOutputAction.APPEND_ROW, # output_action: What to do with the predictions: summary_only or append_row.
-    output_file_name="predictions.csv", # output_file_name: File to which predictions will be appended, if you choose append_row for output_action.
+    instance_count=2,
+    max_concurrency_per_instance=2,
+    mini_batch_size=2,
+    output_action=BatchDeploymentOutputAction.APPEND_ROW,
+    output_file_name="predictions.csv",
     retry_settings=BatchRetrySettings(max_retries=3, timeout=300),
     logging_level="info",
 )
 ml_client.batch_deployments.begin_create_or_update(deployment)
 ```
+
+> #### IMP NOTE: 
+**Configuration Setting** for **batch deployment**:
+  - _**mini_batch_size**_: number of **records processed each time** the **run** script is invoked
+  - _**instance_count**_: number of **compute nodes** the batch job will use
+  - _**output_action**_: determine **how output** should be **treated**, e.g. **append_row** or **summary_only**
+  - _**scoring_script**_: used to **configure path** of **scoring_script**
+  - _**max_concurrency_per_instance**_: **Maximum** number of **parallel scoring script** runs per compute node.
+  - _**output_file_name**_: **File to which predictions** will be **appended**, if you choose append_row for output_action.
+A **batch endpoint** can be configured to **take as input** of a file and **produce as output file**. 
 
 **Note:** For the pipeline to **run scoring script** on **multiple nodes and collate results**, use _**apend_row**_ to **append** each prediction **to one output file**
 

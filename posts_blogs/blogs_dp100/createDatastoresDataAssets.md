@@ -25,20 +25,23 @@ title: Creating Azure ML Workspace
     - > **Using SAS token to authenticate:**
     ```python
     blob_datastore = AzureBlobDatastore(
-    name="blob_sas_example",
-    description="Datastore pointing to a blob container",
-    account_name="mytestblobstore",
-    container_name="data-container",
-    credentials=SasTokenConfiguration(
-    sas_token="?xx=XXXX-XX-XX&xx=xxxx&xxx=xxx&xx=xxxxxxxxxxx&xx=XXXX-XX-XXXXX:XX:XXX&xx=XXXX-XX-XXXXX:XX:XXX&xxx=xxxxx&xxx=XXxXXXxxxxxXXXXXXXxXxxxXXXXXxxXXXXXxXXXXxXXXxXXxXX"
-    ),
+              name="blob_sas_example",
+              description="Datastore pointing to a blob container",
+              account_name="mytestblobstore",
+              container_name="data-container",
+              credentials=SasTokenConfiguration(
+                  sas_token="?xx=XXXX-XX-XX&xx=xxxx&xxx=xxx&xx=xxxxxxxxxxx&xx=XXXX-XX-XXXXX:XX:XXX&xx=XXXX-XX-XXXXX:XX:XXX&xxx=xxxxx&xxx=XXxXXXxxxxxXXXXXXXxXxxxXXXXXxxXXXXXxXXXXxXXXxXXxXX"
+              ),
     )
     ml_client.create_or_update(blob_datastore)
     ```
 
+> #### IMP Note:
+_**AzureBlobDatastore**_ class is used to **register a new blob storage with the SDK v2**. Note that the method _**register_azure_blob_container**_ doesn't belong to the SDK v2 but to the **SDK v1**. 
+
 > ### Creating Data Asset and Reading Data*
 
-- **NOTE:** When you **create a data asset** in Azure Machine Learning and **point to a file or folder** stored on your local device, a **copy of the file or folder** is **uploaded** to the **default datastore** (**_workspaceblobstore_**). The uploaded data can be found in the _**LocalUpload**_` folder. This **ensures** that you **can access the data** from the Azure Machine Learning workspace, **even if** the **original** file or folder on your local device **becomes unavailable**.
+When you **create a data asset** in Azure Machine Learning and **point to a file or folder** stored on your local device, a **copy of the file or folder** is **uploaded** to the **default datastore** (**_workspaceblobstore_**). The uploaded data can be found in the _**LocalUpload**_` folder. This **ensures** that you **can access the data** from the Azure Machine Learning workspace, **even if** the **original** file or folder on your local device **becomes unavailable**.
 
 [![Screenshot-2024-05-22-at-3-23-33-PM.png](https://i.postimg.cc/wvTwRdbf/Screenshot-2024-05-22-at-3-23-33-PM.png)](https://postimg.cc/94Kdss2Z)
 
@@ -118,6 +121,9 @@ A **URI folder data asset** points to a **specific folder**. It works **similar*
 #### 3. MLTable Data Asset
 
 **MLTable data asset** points to a **tabular data**. You **specify** the **schema** definition to read the data. **Ideal** to use when the **schema** of your data is **complex or changes frequently**. **Only need to make changes in one location** instead of multiple. 
+
+> #### NOTE IMP: 
+**To load data** into **Azure ML table** for ML training with least number of steps possible, **use** the **data type** - **multiple .txt files containing data with proper schema**. 
 
 - **MLTable File Example**:
   ```yml

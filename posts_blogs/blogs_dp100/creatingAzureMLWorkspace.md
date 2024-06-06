@@ -55,6 +55,38 @@ aml_url = returned_job.studio_url
 print("Monitor your job at", aml_url)
 ```
 
+> #### IMP Note
+
+- **get()** method: **returns** a specific workspace
+- **list()** method: **lists** workspace that a user has access to
+- **begin_create()** method: **creates** a new workspace
+- **begin_delete()** method: **deletes** a workspace
+
+> #### IMP Note: Managing Azure ML Workspace w.r.t. Data Security
+
+**Create** Azure ML **Workspace** and use **custom** **data** **encryption** **key** for **data** **security**
+
+```python
+from azure.ai.ml.entities import Workspace, CustomerManagedKey
+
+ws = Workspace(
+    name="my_workspace",
+    location="eastus",
+    display_name="My workspace",
+    description="This example shows how to create a workspace",
+    customer_managed_key=CustomerManagedKey(
+        key_vault="/subscriptions/<SUBSCRIPTION_ID>/resourcegroups/<RESOURCE_GROUP>/providers/microsoft.keyvault/vaults/<VAULT_NAME>",
+        key_uri="<KEY-IDENTIFIER>"
+    ),
+    tags=dict(purpose="DP-100 Exam")
+)
+
+ml_client.workspaces.begin_create(ws)
+```
+
+
+
+
 > **_Using Azure CLI to interact with Azure ML workspace_**
 - **Remove any ML CLI extensions** (Both version 1 and 2) to avoid conflicts with previous versions 
 ```bash

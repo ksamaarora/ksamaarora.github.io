@@ -46,6 +46,9 @@ title: Lab 4 Using Azure Automated Machine Learning
   - **Enable Early Termination**: Check the "Enable early termination" checkbox to stop the experiment early if it is not performing well.
 - **Select Compute Type**: **Compute cluster**/Compute Instance/Serverless
 
+> #### IMP Note:
+To apply **one-hot encoding** (**encoding transformation**) to categorical features in a dataset while using automated ML, **enable featurization**. **Impute missing values** is a technique that will be **tried when activating featurization** but cannot be enabled on its own. **Feature scaling** and **normalisation** is **enabled by default**. 
+
 [![Screenshot-2024-05-16-at-4-15-14-AM.png](https://i.postimg.cc/GthkB3H4/Screenshot-2024-05-16-at-4-15-14-AM.png)](https://postimg.cc/dkp7pYRF)
 
 - **Submit the Job**: Click "Submit". The job will run for approximately 30 minutes.
@@ -110,5 +113,19 @@ Batch predictions are **scheduled and less frequent**, such as weekly sales fore
 
 [![Screenshot-2024-05-16-at-6-02-44-PM.png](https://i.postimg.cc/kgvQzpWQ/Screenshot-2024-05-16-at-6-02-44-PM.png)](https://postimg.cc/zy3HRptv)
 
+> #### IMP NOTE:
+- **Regression Metrics:** Mean Absolute Error (**MAE**), Root Mean Squared Error (**RMSE**), Relative Squared Error (**RSE**), Relative Absolute Error (**RAE**) and R Square/Coefficient of Determination (**R^2**).
+- **Classification Metrics:** **Accuracy**, **Precision**, **Recall**, **F1 Score**, **AUC**.
+
+[![Screenshot-2024-06-06-at-3-16-34-PM.png](https://i.postimg.cc/T35kB2gP/Screenshot-2024-06-06-at-3-16-34-PM.png)](https://postimg.cc/G4rJyCM0)
+
+> **IMP NOTE**
+- **Precision metric** will result in a model that **minimises FPR** (false positive rate)
+- **Recall metric** will result in a model that **minimises FNR** (false negative rate)
+- **Accuracy metric** will result in a model with **highest accuracy**
+- **AUC metric** will result in a model with **highest area under receiver operating** characteristic curve
+
 - To **explore a model**, can **generate explanations** for each model that has been trained. Can **specify explanations** for best performing mode. If however, you're **interested in the interpretability of another model**, can select the **model in overview** and **select Explain model**.
+
+
 

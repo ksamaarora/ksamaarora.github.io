@@ -84,6 +84,12 @@ title: Lab 3 Create a basic pipeline in Azure ML Studio
 
 [![Screenshot-2024-05-16-at-12-29-09-AM.png](https://i.postimg.cc/zBHz6qg9/Screenshot-2024-05-16-at-12-29-09-AM.png)](https://postimg.cc/Vr1PbQ4R)
 
+> #### NOTE IMP:
+**Components options in Azure ML Designer:**
+- **Preprocess Text:** **removes stop words from the text**
+- **Split Data Component:** splits data into two parts: train and test sets
+- **Extract N-Gram Features from Text** & **Convert Word to Vector component:** transforms input text into features to make predictions on
+
    - **Evaluate Model**:
      - **Add 'Evaluate Model' Module**: Drag it onto the canvas.
      - **Connect to Trained Model and Test Data**: Link the outputs from the 'Train Model' and 'Split Data' modules.
