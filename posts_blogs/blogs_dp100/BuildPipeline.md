@@ -5,9 +5,26 @@ title: Build a Pipeline
 
 ### _**<u>Build a Pipeline</u>**_
 
-**Define pipeline** by **creating** a **YAML file** or use **function @pipeline()** function to **create YAML file**
+**Define pipeline** by **creating** a **YAML file** or use **function @pipeline()** function to **create YAML file**. **PythonScriptStep** is the **pipeline step** used to perform **tasks in a sequence**, such as one step that prepares input data and a following step that trains a model
 
-**Note:** **PythonScriptStep** is the **pipeline step** used to perform **tasks in a sequence**, such as one step that prepares input data and a following step that trains a model
+> #### IMP NOTE: To pass data between two pipeline using Python SDK
+```python
+from azureml.data import OutputFileDatasetConfig
+from azureml.pipeline.steps import PythonScriptStep
+prepped_data = OutputFileDatasetConfig('prepped')
+# Prepare Data Step
+step1 = PythonScriptStep(
+    name="Prepare Data",
+    script_name='data_prep.py',
+    arguments=['--out_folder', prepped_data]
+)
+# Train the model
+step2 = PythonScriptStep(
+    name="Train Model",
+    script_name='data_prep.py',
+    arguments=['--training-data', prepped_data.as_input()]
+)
+```
 
 > ### Step 1: Prepare data and Train model
 

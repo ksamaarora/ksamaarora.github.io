@@ -36,6 +36,9 @@ The pipeline should:
   - End with _**Gather RAI Insights dashboard**_ to collect all insights into one dashboard
   - Optionally you can also add the _**Gather RAI Insights score card**_ at the end of your pipeline
 
+> #### IMP NOTE: 
+A **Responsible AI scorecard** automatically **generates cohort analysis reports**, including **MAE per cohort** in the dataset
+
 When you **run the pipeline**, a **Responsible dashboard** (and **scorecard**) is **generated** and associated with model. **After training and registering** of model, you can **create** RAI dashboard in **3 ways**:
   - Using the **Command Line Interface (CLI)** extension for Azure Machine Learning.
   - Using the **Python Software Development Kit** (SDK).

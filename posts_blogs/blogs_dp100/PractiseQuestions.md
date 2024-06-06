@@ -31,3 +31,8 @@ title: Some Tricky Microsoft Practise Assesment Qs
 
 [![Screenshot-2024-06-06-at-10-51-21-PM.png](https://i.postimg.cc/PrGqtJhP/Screenshot-2024-06-06-at-10-51-21-PM.png)](https://postimg.cc/qgLrwkNT)
 
+[![Screenshot-2024-06-07-at-1-00-01-AM.png](https://i.postimg.cc/T2th1S5D/Screenshot-2024-06-07-at-1-00-01-AM.png)](https://postimg.cc/7bTqQKVH)
+
+[![Screenshot-2024-06-07-at-1-00-33-AM.png](https://i.postimg.cc/dVy0WVH2/Screenshot-2024-06-07-at-1-00-33-AM.png)](https://postimg.cc/K1mFjxyj)
+________________________________________________________________________________________________________________
+
