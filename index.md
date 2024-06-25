@@ -5,28 +5,30 @@ title: Personal Blog
 
 ### whoami
 
-I'm Ksama Arora, a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
+I'm Ksama Arora, and I like Artificial Intelligence and Machine Learning. 
 
-My interest lies in Artificial Intelligence and Machine Learning
+I am currently a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
 
-I have passed the Microsoft AI-900 exam and currently preparing for the AWS Solutions Architect. I am also currently exploring more in python and fundamental mathematics for AI/ML projects.
+I am currently preparing for the AWS Machine Learning Specialist.
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-#### Certifications
+> ### Certifications
 
-- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900): Attained Microsoft AI Certification, securing a score of 914 out of 1000.
+[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900): Score 914/1000
 
-### Education
+[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100): Score 828/1000
 
-* Bachelor's Degree in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**Graduation 2026**]
+> ### Education
 
-* Higher Secondary Education @M.K.V.V International Vidyalaya, Mumbai [**2022**]
+Bachelor's Degree in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**2026**]
 
-* Secondary Education @Rajhans Vidyalaya, Mumbai [**2020**]
+Higher Secondary Education @M.K.V.V International Vidyalaya, Mumbai [**2022**]
+
+Secondary Education @Rajhans Vidyalaya, Mumbai [**2020**]
 
 ### Test Scores
 
