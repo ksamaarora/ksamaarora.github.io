@@ -9,7 +9,9 @@ I'm Ksama Arora, and I like Artificial Intelligence and Machine Learning.
 
 I am currently a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
 
-I am currently preparing for the AWS Machine Learning Specialist.
+I am currently learning Advanced Data Structures (ADS) and Algorithms and AWS Solutions Architect Associate (SAA-C03).
+
+This is my Github Repo for ADS: <a href="https://github.com/ksamaarora/DSA" style="color:red;">ADS</a> and <a href="https://github.com/ksamaarora/LeetCode" style="color:red;">Leetcode</a>
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 
