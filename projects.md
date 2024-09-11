@@ -3,7 +3,9 @@ layout: default
 title: projects
 ---
 
-#### 1) Travel-Website-HTML-CSS-JavaScriipt-PHPMySql:
+> ### Sorting Visualizer
+
+#### 2) Travel-Website-HTML-CSS-JavaScriipt-PHPMySql:
 
 - The travel website offers a user-friendly menu with various options: "Home," which serves as the informative landing page presenting an overview of the travel organization; "About Us," providing a brief introduction to the travel services; "Popular Tours," where three popular tour options are recommended along with their descriptions; and "Explore," which takes users to the "Book Now" form page. 
 
