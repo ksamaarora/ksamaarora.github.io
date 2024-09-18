@@ -3,14 +3,6 @@ layout: default
 title: extracurricular
 ---
 
-> **Taekwondo Black Belt - 2018**
-
-* Achieved Taekwondo Black Belt status after 8 years of training in traditional forms, sparring and self-defence techniques.
-
-<!-- ![](https://media.discordapp.net/attachments/1173139022688829511/1188358712331612200/IMG_3357.jpg?ex=65ed4acb&is=65dad5cb&hm=f18451ebbfef704d3eab0b73ca3be2f508dda0aca21e0282d6085076776252a0&=&format=webp&width=1516&height=936) -->
-
-[![Taekwondo Black Belt Certificate](https://i.postimg.cc/RCGQRrGn/Screenshot-2024-03-28-at-2-12-34-AM.png)](https://postimg.cc/rz0rVPB8)
-
 > **Master Diploma & Arangetram in Bharatanatyam - 2023**
 
 * I have completed a 10-year training in Bharatnatyam, a classical Indian dance form, along with the final 2-hour stage performance ‘Arangetram,’ marking the completion of my professional Bharatnatyam training.
@@ -26,6 +18,14 @@ title: extracurricular
 <!-- ![degree](https://media.discordapp.net/attachments/1173139022688829511/1188358756585705472/IMG_3360.jpg?ex=65ed4ad6&is=65dad5d6&hm=e65c370062761e0be1efa8a60b016e0439f5ab185dad1865fe7406f207a5f993&=&format=webp&width=628&height=936) -->
 
 [![degree](https://i.postimg.cc/pXG56z92/Screenshot-2024-03-28-at-2-20-42-AM.png)](https://postimg.cc/cr3JKKMj)
+
+> **Taekwondo Black Belt - 2018**
+
+* Achieved Taekwondo Black Belt status after 8 years of training in traditional forms, sparring and self-defence techniques.
+
+<!-- ![](https://media.discordapp.net/attachments/1173139022688829511/1188358712331612200/IMG_3357.jpg?ex=65ed4acb&is=65dad5cb&hm=f18451ebbfef704d3eab0b73ca3be2f508dda0aca21e0282d6085076776252a0&=&format=webp&width=1516&height=936) -->
+
+[![Taekwondo Black Belt Certificate](https://i.postimg.cc/RCGQRrGn/Screenshot-2024-03-28-at-2-12-34-AM.png)](https://postimg.cc/rz0rVPB8)
 
 > I am **currently** dedicated to the pursuit of **Classical Music** and anticipate completing my degree from **Akhil Bharatiya Gandharva Mahavidyalaya** upon successful completion of my final level examination.
 
