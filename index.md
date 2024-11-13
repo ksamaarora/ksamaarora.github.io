@@ -20,9 +20,11 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 > ### Certifications
 
-[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900): Score 914/1000 <a href="https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900) <a href="https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
 
-[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100): Score 828/1000 <a href="https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100) <a href="https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+
+[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-900) <a href="https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
 
 > ### Education
 
