@@ -37,7 +37,7 @@ Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School
 - CGPA current: 3.69 (or 9.23/10)
 
 ## Have any questions
-Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksamaarora/) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com)
+Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksamaarora/) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com).
 
 <br>
 
