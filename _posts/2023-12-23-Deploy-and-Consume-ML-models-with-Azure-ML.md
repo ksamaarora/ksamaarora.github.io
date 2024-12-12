@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Deploy and Consume Models with Azure Machine Learning"
+title:  "Managed Online vs Batch Endpoints for Model Deployment in Azure"
 date:   2024-11-10 1:28:47 +05:30
 tags:
   - Machine Learning
