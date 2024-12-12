@@ -5,34 +5,28 @@ title: Personal Blog
 
 ### whoami
 
-I'm Ksama Arora, and I like Artificial Intelligence and Machine Learning. 
+I'm Ksama Arora, and I like Artificial Intelligence and Data Science. I am currently a third-year undergraduate student @NMIMS MPSTME, Mumbai studying IT. 
 
-I am a third-year undergraduate student majoring in Information Technology at NMIMS MPSTME, Mumbai. 
+I am currently looking for hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025.
 
-I am currently learning Advanced Data Structures (ADS) and Algorithms and AWS Solutions Architect Associate (SAA-C03)
-
-This is my Github Repository for ADS: <a href="https://github.com/ksamaarora/DSA" style="color:red;">github.com/ksamaarora/DSA</a> and <a href="https://github.com/ksamaarora/LeetCode" style="color:red;">github.com/ksamaarora/LeetCode</a>
+<!-- This is my Github Repository for ADS: <a href="https://github.com/ksamaarora/DSA" style="color:red;">github.com/ksamaarora/DSA</a> and <a href="https://github.com/ksamaarora/LeetCode" style="color:red;">github.com/ksamaarora/LeetCode</a> -->
 
 I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/ksamaarora/" target="_blank" rel="noopener" ></a> &nbsp; 
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-> ### Certifications
+### Education
 
-[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900) <a href="https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**Current CGPA:9.23**]
 
-[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100) <a href="https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+### Certifications & Blogs
 
-[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-900) <a href="https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB" style="color:red;">Verify</a>
+- [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900)
+- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-900) 
+- All certifications can be verified <a href="" style="color:red;">here</a>
 
-> ### Education
-
-Bachelor's Degree in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**2026**]
-
-Higher Secondary Education @M.K.V.V International Vidyalaya, Mumbai [**2022**]
-
-Secondary Education @Rajhans Vidyalaya, Mumbai [**2020**]
 
 ### Test Scores
 
