@@ -5,9 +5,11 @@ title: Personal Blog
 
 ### whoami
 
-I'm Ksama Arora, and I like Artificial Intelligence and Data Science. I am currently a third-year undergraduate student @NMIMS MPSTME, Mumbai studying IT. 
+I am Ksama Arora, a Bachelor of Technology student specializing in Information Technology at NMIMS. 
 
-I am currently looking for hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025.
+I do data science and machine learning.
+
+I am currently seeking a hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025.
 
 <!-- This is my Github Repository for ADS: <a href="https://github.com/ksamaarora/DSA" style="color:red;">github.com/ksamaarora/DSA</a> and <a href="https://github.com/ksamaarora/LeetCode" style="color:red;">github.com/ksamaarora/LeetCode</a> -->
 
@@ -22,10 +24,11 @@ Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School
 
 ### Certifications & Blogs
 
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/ECB08E9B0A4B6A1F?sharingId=1BB6F238AD2E89BB) (DP-100)
 - [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-100)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/KsamaArora-1212/72D846A4563C157F?sharingId=1BB6F238AD2E89BB) (AI-900)
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-900) 
-- All certifications can be verified <a href="" style="color:red;">here</a>
+<br> All certifications can be verified by clicking on the above links<a href="" style="color:red;"></a>
 
 
 ### Test Scores
