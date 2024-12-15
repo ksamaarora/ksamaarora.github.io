@@ -30,6 +30,12 @@ Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KsamaArora-1212/9CA42CD19F3EAFB5?sharingId=1BB6F238AD2E89BB) (DP-900) 
 <br> All certifications can be verified by clicking on the above links<a href="" style="color:red;"></a>
 
+### Experience
+
+> **Free Open Source Software Club, NMIMS**
+
+- Role: **Head of Technial Department**
+- **Led** the technical initiatives of the Free Open Source Software Club (FOSS MPSTME). Spearheaded **workshops** on emerging technologies like **cloud computing**, **machine learning**, and **web development**. Organized **hackathons** and **coding sprints**, guiding over **200 students** in using open-source tools to solve real-world problems.
 
 ### Test Scores
 
