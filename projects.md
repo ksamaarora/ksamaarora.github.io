@@ -5,22 +5,32 @@ title: projects
 
 ### **Projects**
 
+> **Oncology Breast Scanner**
+
+**Tech Stack:** Python, TensorFlow, Keras, DenseNet201, OpenCV, Albumentations, Google Colab
+- Developed a deep learning-based breast cancer detection system using DenseNet201 to classify mammogram images into eight diagnostic categories, including benign and malignant density types. 
+- Implemented advanced data preprocessing techniques, such as contrast enhancement and normalization and leveraged augmented datasets for training. 
+- Achieved high validation accuracy by optimizing hyperparameters, automating the end-to-end workflow and validating predictions on unseen data for reliable medical analysis.
+- You can find the repository here: <a href="https://github.com/ksamaarora/OncologyBreastScanner-deeplearning" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/OncologyBreastScanner</a>.
+
+<br>
+
 > **Healthcare Revenue Cycle Management**
 
 **Tech Stack:** Azure Data Factory, Azure Databricks, SQL, ADLS, Key Vault, Delta Lake GitHub 
-- Designed and implemented a robust data pipeline to optimize healthcare revenue cycle management using Azure Data Factory and Azure Databricks. Leveraged Delta Lake for efficient data storage and processing, ensuring real-time insights into billing, claims, and patient financial data. 
-- Integrated Azure Data Lake Storage (ADLS) with secure data handling using Key Vault, maintaining compliance with healthcare regulations. Utilized SQL to perform data transformations, ensuring actionable insights for decision-making.
+- Designed and implemented a robust data pipeline to optimize healthcare revenue cycle management using Azure Data Factory and Azure Databricks. Leveraged Delta Lake for efficient data storage and processing, enabling real-time insights into billing, claims and patient financial data. 
+- Integrated Azure Data Lake Storage (ADLS) with secure data handling using Key Vault, maintaining compliance with healthcare regulations. Utilized SQL to perform data transformations, ensuring actionable insights for decision-making, improving data processing time by 40%.
 - You can find the repository here: <a href="https://github.com/ksamaarora/healthcare-revenue-cycle-management" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/healthcare-revenue-cycle-management</a>.
 
 <br>
 
-> **Uber Ride Data Insights**
+> **ForensiFeed**
 
-**Tech Stack:** Python, Google Cloud Storage, Compute Engine, BigQuery, Looker Studio GitHub 
-- Developed a scalable data pipeline on Google Cloud Platform (GCP) to process and analyze 1M+ Uber ride records spanning 12 months. 
-- Optimized BigQuery queries, reducing execution time by 30%, and used Mage for streamlined data orchestration. Built interactive dashboards in Looker Studio, enhancing insights into seasonal ride trends, passenger demand, and fare metrics. 
-- Achieved a 20% reduction in storage and processing costs through efficient data modeling and query optimization.
-- You can find the repository here: <a href="https://github.com/ksamaarora/uber-ride-data-insights-gcp" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/uber-ride-data-insights-gcp</a>.
+**Tech Stack:** React, Node.js, Vanilla JavaScript, AJAX, Python.
+- Developed an automated tool for forensic investigation, capable of parsing social media feeds from platforms like Twitter, Facebook, Instagram and Telegram, reducing manual effort by 80%. 
+- Worked on Back-end of the website and helped my teammates with integrating the front-end interface. Created user-friendly web-based interface that allows investigators to input usernames, hashtags or keywords for automated data gathering, improving data retrieval speed by 60%. 
+- Integrated a web application, increasing accessibility for investigators across different platforms.
+- More information and the report: <a href="https://github.com/ksamaarora/ForensiFeed" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/ForensiFeed</a>.
 
 <br>
 
@@ -30,17 +40,6 @@ title: projects
 - Created a Power BI report to identify top 11 players for a T20 cricket team by scraping data from espncricinfo with a Brightdata website tool, cleaning and transforming the data with pandas, and evaluating various player performance metrics. 
 - Used the resulting Power BI dashboard to select players for various categories (openers, middle order/anchors, finishers, all-rounders, specialist fast bowlers) and ultimately choose the top 11 players to play in the match. Selected team using the Power BI dashboard has 90% of chances to win the game.
 - You can find the repository here: <a href="https://github.com/ksamaarora/T20-worldcup-cricket-data-analysis" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/T20-worldcup-cricket-data-analysis</a>.
-
-<br>
-
-> **ForensiFeed**
-
-**Tech Stack:** React, Node.js, Vanilla JavaScript, AJAX, Python.
-- Developed an automated tool for forensic investigation, capable of parsing social media feeds from platforms like Twitter, Facebook, Instagram and Telegram, reducing manual effort by 80%.
-- Worked on Back-end of the website and helped my teammates with integerating the front-end interface.Created user-friendly web-based interface that allows investigators to input usernames, hashtags or keywords for automated
-data gathering, improving data retrieval speed by 60%.
-- Integrated both Android and Windows version, increasing accessibility for investigators across different platforms.
-- More information and the report: <a href="https://github.com/ksamaarora/ForensiFeed" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/ForensiFeed</a>.
 
 <br>
 

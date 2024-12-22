@@ -35,7 +35,7 @@ Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School
 > **Free Open Source Software Club, NMIMS**
 
 - Role: **Head of Technial Department**
-- **Led** the technical initiatives of the Free Open Source Software Club (FOSS MPSTME). Spearheaded **workshops** on emerging technologies like **cloud computing**, **machine learning**, and **web development**. Organized **hackathons** and **coding sprints**, guiding over **200 students** in using open-source tools to solve real-world problems.
+- Led the technical initiatives of the Free Open Source Software Club (FOSS MPSTME). Spearheaded workshops on emerging technologies like cloud computing, machine learning and web development. Organized hackathons and coding sprints, guiding over 200 students in using open-source tools to solve real-world problems.
 
 ### Test Scores
 
