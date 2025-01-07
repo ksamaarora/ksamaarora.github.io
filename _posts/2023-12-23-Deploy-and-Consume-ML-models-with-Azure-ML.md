@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Managed Online vs Batch Endpoints for Model Deployment in Azure"
-date:   2024-11-10 1:28:47 +05:30
+date:   2024-12-13 1:28:47 +05:30
 tags:
   - Machine Learning
   - azure

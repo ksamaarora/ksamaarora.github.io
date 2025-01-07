@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Deploy Machine Learning Models with Azure Machine Learning"
-date:   2024-12-11 09:29:20 +0700
+date:   2024-12-21 09:29:20 +0700
 tags:
   - cloud
 categories: jekyll update
