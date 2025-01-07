@@ -43,7 +43,8 @@ Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School
 - Semester 2 GPA: 3.93/4
 - Semester 3 GPA: 3.71/4
 - Semester 4 GPA: 3.58/4
-- CGPA current: 3.69 (or 9.23/10)
+- Semester 5 GPA: 3.84/4
+- CGPA current: 3.72 (or 9.3/10)
 
 ## Have any questions
 Do you have any questions? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ksamaarora/) or via email at [ksama.arora@outlook.com](mailto:ksama.arora@outlook.com).
