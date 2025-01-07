@@ -20,7 +20,7 @@ I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my 
 
 ### Education
 
-Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**Current CGPA:9.23**]
+Bachelor of Technology (B.Tech.) in Information Technology @ Mukesh Patel School of Technology Management and Engineering, NMIMS - Mumbai [**Current CGPA:9.3**]
 
 ### Certifications & Blogs
 

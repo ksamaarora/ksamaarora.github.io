@@ -10,7 +10,7 @@ usemathjax: true
 
 **How to Deploy Machine Learning Models with Azure Machine Learning**
 
-With machine learning gaining popularity, many businesses are adding machine learning models to existing systems. Model deployment integrates a machine learning model into a production environment. If done well, this empowers businesses to make data-driven decisions in weeks. Knowledge of efficient model deployment is an essential skill for competitive data scientists.
+With machine learning gaining popularity, many businesses are adding machine learning models to existing systems. Model deployment integrates a machine learning model into a production environment. If done well, this empowers businesses to make data-driven decisions in weeks. Knowledge of efficient model deployment is an essential skill for competitive data scientists
 
 ### Contents
 
