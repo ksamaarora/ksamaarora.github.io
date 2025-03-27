@@ -5,6 +5,16 @@ title: projects
 
 ### **Projects**
 
+> **DocuQuery**
+
+**Tech Stack:** LangChain, ChromaDB, Ollama (Mistral Model), PyMuPDF, python-docx, Streamlit
+- Developed a retrieval-augmented generation system that enables users to upload PDF, DOCX, and TXT files and extract targeted information using natural language queries.
+- Leveraged LangChain for managing document workflows, ChromaDB for efficient vector embedding storage, and Ollama’s Mistral model for precise query processing.
+- Integrated advanced vector search algorithms and contextual matching for reliable document analysis and information retrieval. 
+- You can find the repository here: <a href="https://github.com/ksamaarora/DocuQuery-RAG-LangChain-Ollama" style="color:red;" rel="noopener" target="_blank">github.com/ksamaarora/DocuQuery-RAG-LangChain-Ollama</a>.
+
+<br>
+
 > **Oncology Breast Scanner**
 
 **Tech Stack:** Python, TensorFlow, Keras, DenseNet201, OpenCV, Albumentations, Google Colab

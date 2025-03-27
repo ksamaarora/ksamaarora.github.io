@@ -7,7 +7,7 @@ title: Personal Blog
 
 I am Ksama Arora, a Bachelor of Technology student specializing in Information Technology at NMIMS. 
 
-I do data science and machine learning.
+I am passionate about software engineering with a strong interest in data science and machine learning.
 
 I am currently seeking a hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025.
 
