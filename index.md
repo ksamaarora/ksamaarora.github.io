@@ -9,7 +9,7 @@ I am Ksama Arora, a Bachelor of Technology student specializing in Information T
 
 I am passionate about software engineering with a strong interest in data science and machine learning.
 
-I am currently seeking a hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025.
+I am currently seeking a hybrid internship in Mumbai, Bengaluru or Delhi area for the Spring of 2025
 
 <!-- This is my Github Repository for ADS: <a href="https://github.com/ksamaarora/DSA" style="color:red;">github.com/ksamaarora/DSA</a> and <a href="https://github.com/ksamaarora/LeetCode" style="color:red;">github.com/ksamaarora/LeetCode</a> -->
 
